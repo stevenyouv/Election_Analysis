@@ -32,6 +32,7 @@ Winning Percentage: 73.8%
 The challenge required outputting the vote total and vote percentage for all counties involved in the election.
 
 ## Challenge Summary
+This script can be used in any election where multiple counties and multiple candidates are involved to track number of votes and the percentage of votes received for each candidate and from each county.  In this report three candidates and three counties were counted, but more counties and candidates can be counted if needed.  This script can be modified to track other indices such as age group, race, sex, etc.
 
 County Votes:  
 Jefferson: 10.5% (38,855)  
